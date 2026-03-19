@@ -1,9 +1,9 @@
-langgraph>=0.2.0
-langchain-openai>=0.2.0
-langchain-core>=0.3.0
-langchain>=0.3.0
-google-cloud-firestore>=2.18.0
-langgraph-checkpoint-firestore>=0.1.0
-python-dotenv>=1.0.0
-requests>=2.32.0
+langgraph
+langchain-openai
+langchain-core
+langchain
+google-cloud-firestore
+langgraph-checkpoint-firestore
+python-dotenv
+requests
  
