@@ -1,0 +1,9 @@
+chainlit
+langgraph
+langchain
+langchain-core
+langchain-openai
+langsmith
+python-dotenv
+requests
+rich
